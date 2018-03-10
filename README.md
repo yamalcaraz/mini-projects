@@ -1,2 +1,5 @@
 # mini-projects
-Mini projects for blog and from online courses
+
+These are some of my mini/side projects for blog and from online courses.
+
+Feel free to view the website [here](https://yamalcaraz.github.io/).
